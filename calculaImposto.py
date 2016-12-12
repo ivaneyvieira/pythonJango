@@ -1,3 +1,7 @@
+'''
+  Comentario adicionado
+'''
+
 #!/usr/bin/env python3
 
 #Entrada de dados
@@ -14,3 +18,6 @@ else:
 
 if imposto_cobrado > 0:
     print("O valor do importo cobrado é %5.2f", imposto_cobrado)
+
+
+print("Fim do progrma")
