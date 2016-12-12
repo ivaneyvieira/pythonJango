@@ -1,5 +1,4 @@
 '''
-
 Programa para cadastrar nome, telenone e email
 Gravar em arquivo
 ler e escrever
