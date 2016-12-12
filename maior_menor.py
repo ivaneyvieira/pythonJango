@@ -10,3 +10,6 @@ for numero in lista:
     if(numero < menor):
         menor = numero
     print(maior, menor, numero)
+    
+    for a in [1,2,3,4]:
+        print(a)
